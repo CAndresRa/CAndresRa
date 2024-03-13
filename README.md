@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/JulianBenitez99/JulianBenitez99/master/resources/chill_mario.gif"  />
+  <img height="400" src="https://raw.githubusercontent.com/JulianBenitez99/JulianBenitez99/master/resources/chill_mario.gif"  />
 </div>
 
 ###
